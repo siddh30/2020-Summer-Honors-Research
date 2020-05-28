@@ -1,1 +1,1 @@
-# Industrial-Recommender-Systems-in-Media-Entertainment-
+# Industrial Recommender Systems in Media Entertainment-
