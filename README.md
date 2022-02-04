@@ -8,4 +8,4 @@
 
 - **This research is a part of the Honors Research Program conducted by Stevens Institute of Technology and I would like to express my sincere gratitude to Professor Hong Man for being my mentor and guiding me through this project**. 
 
-- Through the research topic, I hope to explore about how organizations such as Spotify, Netflix and YouTube leverage Recommender Systems to enjoy a high user share, as well as learn about the essence of approaches such as Natural Language Processing, Neural Net- works and LSTM in optimizing user recommendations, making them more relevant and more meaningful.
+- Through the research topic, I hope to explore about how organizations such as Spotify, Netflix and YouTube leverage Recommender Systems to enjoy a high user share, as well as learn about the essence of approaches such as Natural Language Processing, Neural Networks and LSTM in optimizing user recommendations, making them more relevant and meaningful.
